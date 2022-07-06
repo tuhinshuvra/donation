@@ -78,14 +78,29 @@ p {
 }
 
 .amount-seris div {
-    padding: 27px 17px;
+    padding: 32px 17px;
 }
 
 .amount-seris :nth-child(2) {
     background-color: #FFEEEE;
     border: 2px solid #FF5959;
     border-radius: 5px;
+    margin-bottom: 70px;
 
+}
+
+.donate-keep {
+    text-align: center;
+}
+
+.amount-form {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 320px;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: #B3B3B3;
+    margin-bottom: 20px;
 }
 
 /* donation amount setion end */
