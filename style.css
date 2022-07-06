@@ -155,16 +155,15 @@ p {
     box-sizing: border-box;
     outline: 0;
     border-width: 0 0 0px;
-
 }
 
-form.subs-form {
+.subs-form {
     margin: 0 auto;
+    text-align: center;
     max-width: 500px
 }
 
-
-form.subs-form input[type=text] {
+.subs-form input {
     padding: 15px;
     font-size: 17px;
     float: left;
@@ -174,7 +173,7 @@ form.subs-form input[type=text] {
     margin-top: 15%;
 }
 
-form.subs-form button {
+.subs-form button {
     float: left;
     width: 35%;
     padding: 15px;
