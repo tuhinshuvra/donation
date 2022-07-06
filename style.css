@@ -18,7 +18,6 @@ h2 {
 p {
     font-size: 18px;
     font-weight: 400;
-    color: #c8c5c5;
     margin-bottom: 50px;
 
 }
@@ -39,6 +38,10 @@ p {
     padding: 6% 240px;
 }
 
+.banner-txt p {
+    color: #c8c5c5;
+}
+
 .banner img {
 
     width: 2000px;
@@ -53,3 +56,36 @@ p {
     border-radius: 5px;
     color: white;
 }
+
+/* donation amount setion start */
+.common-txt {
+    text-align: center;
+    margin: 0 25%;
+    color: #707070;
+}
+
+.common-txt p {
+    /* color: #707070; */
+}
+
+.amount-seris {
+    margin: 0 15%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    font-weight: 700;
+    color: #707070;
+}
+
+.amount-seris div {
+    padding: 22px;
+}
+
+.amount-seris :nth-child(2) {
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+
+}
+
+/* donation amount setion end */
