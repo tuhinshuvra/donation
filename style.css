@@ -30,7 +30,7 @@ p {
     background-repeat: no-repeat;
     /* background-position: center; */
     background-size: cover;
-    position: fixed;
+    /* position: fixed; */
     text-align: center;
     box-shadow: inset 0 1px 1px 1000px rgba(0, 0, 0, 0.607);
 }
