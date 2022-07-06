@@ -83,7 +83,6 @@ p {
     border: 2px solid #FF5959;
     border-radius: 5px;
     margin-bottom: 70px;
-
 }
 
 .donate-keep {
@@ -101,7 +100,6 @@ p {
 }
 
 /* donation amount setion end */
-
 
 /* donation-plan amount setion start */
 .donation-plan {
@@ -147,8 +145,6 @@ p {
 .act-gallary {
     display: flex;
     justify-content: space-evenly;
-    /* width: 100%; */
-
 }
 
 .activities img {
@@ -157,10 +153,7 @@ p {
     border-radius: 10px;
 }
 
-
 /* activities section end  */
-
-
 
 /* subscribtion  setion start*/
 .subscribtion {
