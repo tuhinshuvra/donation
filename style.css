@@ -65,10 +65,6 @@ p {
     color: #707070;
 }
 
-.common-txt p {
-    /* color: #707070; */
-}
-
 .amount-seris {
     margin: 0 15%;
     display: flex;
@@ -141,14 +137,18 @@ p {
 }
 
 /* donation-plan amount setion end */
+
+/* subscribtion  setion start*/
+.subscribtion {
+    margin-bottom: 150px;
+}
+
 .subs-area {
     margin: 0 auto;
     background-color: #FFF4D6;
     width: 800px;
     height: 200px;
     border-radius: 5px;
-
-
 }
 
 * {
@@ -184,3 +184,30 @@ p {
     border-radius: 0 5px 5px 0;
     margin-top: 15%;
 }
+
+/* subscribtion  setion end */
+
+/* footer start */
+footer {
+    width: 100%;
+    height: 170px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    font-size: 36px;
+    font-weight: 400px;
+}
+
+footer p {
+    color: #c6c7cb;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* footer end */
