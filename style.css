@@ -19,19 +19,18 @@ p {
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 50px;
-
 }
 
+/* banner section start */
 .banner {
     width: 100%;
     height: 650px;
     background-image: url(images/donation8.jpg);
     background-repeat: no-repeat;
-    /* background-position: center; */
     background-size: cover;
-    /* position: fixed; */
     text-align: center;
     box-shadow: inset 0 1px 1px 1000px rgba(0, 0, 0, 0.607);
+    margin-bottom: 150px;
 }
 
 .banner-txt {
@@ -56,6 +55,8 @@ p {
     border-radius: 5px;
     color: white;
 }
+
+/* banner section end */
 
 /* donation amount setion start */
 .common-txt {
@@ -104,3 +105,39 @@ p {
 }
 
 /* donation amount setion end */
+
+
+/* donation-plan amount setion start */
+.donation-plan {
+    margin-bottom: 150px;
+}
+
+.donation-amount {
+    margin-bottom: 150px;
+}
+
+.plan-types {
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.plan-types div {
+    padding: 40px 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.plan-types div:nth-child(1) {
+    background-color: #EDF5F6;
+}
+
+.plan-types div:nth-child(2) {
+    background-color: #FFEEEE;
+}
+
+.plan-types div:nth-child(3) {
+    background-color: #FFF4D6;
+}
+
+/* donation-plan amount setion end */
