@@ -138,6 +138,30 @@ p {
 
 /* donation-plan amount setion end */
 
+/* activities section start  */
+.activities {
+    /* display: flex; */
+    margin-bottom: 150px;
+}
+
+.act-gallary {
+    display: flex;
+    justify-content: space-evenly;
+    /* width: 100%; */
+
+}
+
+.activities img {
+    max-width: 400px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+
+/* activities section end  */
+
+
+
 /* subscribtion  setion start*/
 .subscribtion {
     margin-bottom: 150px;
