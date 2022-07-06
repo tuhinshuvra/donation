@@ -211,10 +211,10 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 15px 0;
 }
 
 footer h3 {
+    padding-top: 15px;
     font-family: 'Lobster', cursive;
     color: #FF5959;
     font-size: 36px;
